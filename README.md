@@ -1,0 +1,1 @@
+This project is a Java-based Electricity Billing System offering user authentication, customer and meter management, and comprehensive billing functionalities including calculation, generation, payment, and detailed record keeping, all backed by a MySQL database.
